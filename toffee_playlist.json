@@ -3,7 +3,7 @@
         "name": "Toffee Live TV Full Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:27:14 AM 01-09-2026"
+        "last_update": "08:12:36 AM 01-09-2026"
     },
     "channels": [
         {
@@ -16,7 +16,7 @@
             "is_premium": "Premium",
             "content_type": "Live_TV",
             "status": "PUBLISHED",
-            "stream_url": "https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-1/index.m3u8?edge-cache-token=Expires=1788219136~Starts=1788218836~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTBhNTg1MzUtNjIzYy00YzgwLTg4MDYtZjY1YjY5NGU2YjcyIn0~Signature=zHlPKxtKAwS8MHExEG5PG4JAhsk8K7pQ4xpU8fHF6g7U_pYXbC8NB4gJfrx8cdx7SkXFv5-M3UyAYVbtCo5sCQ",
+            "stream_url": "https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-1/index.m3u8?edge-cache-token=Expires=1788229057~Starts=1788228757~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTBhNTg1MzUtNjIzYy00YzgwLTg4MDYtZjY1YjY5NGU2YjcyIn0~Signature=IpGVRVDuv_TX4PVRSehdR8YBxknIae4t_ZYUMvP0XLpdDb0mPaSXBKDhoC1EIWOzE-8kBpBd7LB2LO-JpRMLAw",
             "stream_format": "HLS",
             "drm_token": "N/A",
             "has_ads": "no",
@@ -35,10 +35,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJWX19vMDU0Qk9iVXQyQUc2TEw1QyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNiwiZXhwIjoxNzg4MjE5MTM2fQ.AHOb3Rw7D5HNLUfGs8QoRE3XoURPPtsQ8hMaVyXhV5HCUxRhbitO_kfDREcf0K07JUdN30u4hZpJApxj-myY8PNo9XMK3mx3NtK7WKQ8belPPUPnJjn_x8_zkpxI6-8b9FuABvuXybBQEBx3P1cL1NyGH0xAJpkc0Fp7WnKfWDCTK3QKjW8e3NwcE0dBREVFaOSxKTzwXhLjGmh9njtGRcYAvotpOC3Ypu_Y8X00eFhFCnDaEEzlyKGbsMCt404tw0c4saAH_v0bUaLA7Dumf9F6FpuaNTsUjYoQCmbNWj-yis8q7o9hxTpthyAYsf2M8Wl6yaAe2aXFpAxWSHK_pQ",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJWX19vMDU0Qk9iVXQyQUc2TEw1QyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1NywiZXhwIjoxNzg4MjI5MDU3fQ.F2vIVGB5AmO0MXZCgBfnfItMH6XFNZ-h8yfgEt-oRYaj7evYrucGz6v7FT0hnItYoBP_RnoxVMdyKqrQR-Av3flu059Jl0GkEgO2FbXxFboX8DDbbKzRzk_YMvk7BRdRaaPm3-MNPkTpVWwR2-csVktl2sXWwghw_YWyvPYKPeysNBf5q8g7bNQop431pI6RlhyOg8SwT7j2IyEGbBGODVXUlD4EQyjENjbNi89dvWItaK_weXFHzep_8oZAzHy6-l3dTqX4ePLF344LCLeFRJT4CjJi1uMySuJ4iEz-ZxPKAdxezvBbrK825qOvC97mV34VuGp5q3JRl8UsC57jvg",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391636:KeyName=prod_linear:Signature=8P-0M6jVHNV1QMqsOljTqQqXUVU0bCvAwrRSY3yNH24H_XjQA9s2DWP051VdWefvPSHK9F8ZOD3BnM9ek127BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401557:KeyName=prod_linear:Signature=k3cgNRBI88MR2VcVwxUHbc-_PORo_hfTviOO1gLEzACWzCVjwFRHuwuzdaXm9I-lRfADHjSDzpOWjoyXpANCBw"
         },
         {
             "channel_id": "sy5m-JQBv9knK3AHYTTk",
@@ -52,10 +52,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJzeTVtLUpRQnY5a25LM0FIWVRUayIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNiwiZXhwIjoxNzg4MjE5MTM2fQ.moyzeoh-K-mLoFzBk0nF0InBRve9jqmaHAiHiRsCO4B6ZoRasMCtibelXgY38NvsrkqYvN263uZwKj45qnDhj7sSo82DvfUrTFjxqL5WqONG07c2dtXenbrA78uJgPQd8BcOcxeYvUG09eY36F8uNhTXuXQU24TvUwB8783fsy5ndxpjlvb5NutC7OJNGa2fg98o5Qki6KZzywcGPn6SEpeu2KH98aC6R_e_VvIUzxfUBy71YrJM-fPucC1bzcIqvZ6bnO-oFPMOcCtRSzlEC-V6lR9K56TFYLfQIkV3MbEBUgKmuLMdxFgsLGOlQ5VUUxyVFeKUNtuQdOiVDthGYw",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJzeTVtLUpRQnY5a25LM0FIWVRUayIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1NywiZXhwIjoxNzg4MjI5MDU3fQ.01UJJeEVSPwnEzlXqpwmzKgdyRtzNN949_hCkEKTmQBV48OyybQk4n-exMFFRrYhkJ3nEtB8A7--Ylz2eGoBiKzkt65Xj3mvwvarKQkDO8Cl6Dxn2DhYO3XieHtY5F0SM3Mv3IiS_jvVNGkMHY_BXpt9AZADRtkfgOtCjajd4QBPUs6b2Qf76fJ2qEh3ZdWp8CzxZYFQN4-srtx9szp3FYB9WxSBo2EXfl1J1ePpsLnOHtY6im_vz2QTHiPrMg6t9LTNo_OE6RUzqnHzittZvQaxiP2al0ui-DotY7jDv9dKiCpXDcI5-ZF2duXTBbKx-Rt4nFwgFwQQFgWtL2LwTw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391636:KeyName=prod_linear:Signature=8P-0M6jVHNV1QMqsOljTqQqXUVU0bCvAwrRSY3yNH24H_XjQA9s2DWP051VdWefvPSHK9F8ZOD3BnM9ek127BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401557:KeyName=prod_linear:Signature=k3cgNRBI88MR2VcVwxUHbc-_PORo_hfTviOO1gLEzACWzCVjwFRHuwuzdaXm9I-lRfADHjSDzpOWjoyXpANCBw"
         },
         {
             "channel_id": "py5j-JQBv9knK3AHxDTY",
@@ -69,10 +69,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJweTVqLUpRQnY5a25LM0FIeERUWSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNiwiZXhwIjoxNzg4MjE5MTM2fQ.eKRjBQqWT8TovlOLRDl2Ue-VcXVYAOji43S2CBIwhgYT9GPmAOM3jfCtU4cAwPI6JjkRN30WVj0sJc_ABmbS_Y4mq_YPZ-UlfKObnKJ2SQh0KWxM68SeYFyZfIP0DgM_5bNhZU4rYtLJbuLCWPix_Z2jeTkUkT7L29sJpbCcEPDTwXPaVFx2e8zD1Vgy70Hrvc1VOaEh_KF8RUYajD23h9dEbuNBy_qkOhhFz_QsFCm31pBywB6bqvg640jgy3kqE4QAdYuTJm_liUsxnMOtr3Gv7Egp1tcxIvChn9GWopaX_y3anuZtcm0USap-vFS3RUUa7FKBp1iXkCo_9uE1bA",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJweTVqLUpRQnY5a25LM0FIeERUWSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1NywiZXhwIjoxNzg4MjI5MDU3fQ.S3E7oEfGzt1L7lamLlck6HM97gJwXQfQmXfvSky26QoU1xLPHJ0bD23CPmGnlMoT0Yzzjopn3wr2fjPPAMDvNcveHfZDtqp1IBzbEaamhOEe8lo8dHICSe-lAoO7J95tyW2hyP8hvAxyKdnkYDK3JoIcOC-L6-BvxxLXbCS4mPlWYWe1HQoCSQ61UkCLS55sQkCpuQJQOHvN7wPdhP2bQUMLpNsu8C1lUCohCQVb9be7mafTtOchXveo1pz8qyC3t1PxDdq8ckStrUsYH5Ad8BD2FDtqmkzd6uKO7T1aBwAFOELbGPEWo9MWxLbigDhbdUunlV0AVd64DgSGgyxtyA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391636:KeyName=prod_linear:Signature=8P-0M6jVHNV1QMqsOljTqQqXUVU0bCvAwrRSY3yNH24H_XjQA9s2DWP051VdWefvPSHK9F8ZOD3BnM9ek127BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401557:KeyName=prod_linear:Signature=k3cgNRBI88MR2VcVwxUHbc-_PORo_hfTviOO1gLEzACWzCVjwFRHuwuzdaXm9I-lRfADHjSDzpOWjoyXpANCBw"
         },
         {
             "channel_id": "vi5n-JQBv9knK3AHqzTC",
@@ -86,10 +86,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJ2aTVuLUpRQnY5a25LM0FIcXpUQyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNiwiZXhwIjoxNzg4MjE5MTM2fQ.aI7HDaD8rbNJg3lRuI_lnr5sQvp-0Ma_Y7hXbTngifROhnLYAGhgqTKMZ6dUmKqIl6xtZ7I7EDxH5EvadRV-oGdT9TEJ8La_MUMpygppoFNE73EF2ZGEZhj6kgZkzFGI0y3MDgvYLTEE7dJWXmcpVwLQnkrCJfldRRLtWhs2-fZL2B6cedZquGhaS4vQpYbIvnSAAv83NtKWbeas1yOxICRVTUIQ-bKEyCgbksAWJ3_j01SEqu7KEb9Z5bSYjSmQomw2P8EPLParsgIK-Ge1-qqoiHPBGTcoc3gpxKAG18CDqNvzZpQQ4TiYiRKf7wqocD6_y-BZkCWbyuOo-4RV9g",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJ2aTVuLUpRQnY5a25LM0FIcXpUQyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1NywiZXhwIjoxNzg4MjI5MDU3fQ.QC4F8d-L18YqSD2TQQIR_cCPIJvuk0yjYzbny1VtCFDOu-xBHo6F9AzXH53zykz0u0tXLwxE_GuwE8X7Y4-VOOUdzQo99un1uoAoG8dHyzH1GfkmGJHkADBTMEkrfqJu3ZvdA-Hx1pmNzKtzahFxfpIY1YhDHgjGbPcPzlcHlfG5QXyZ4E7kQqGyXxQJT2cHOnEcDLmvXM_h3Gsu-N5ec5ofPDvUp9v7Ke1mz-E-nUP9s9vA5F6cW-UoXOo6w_8qRTMfCUffWCO5g5M4oyZsI-4_1cCWI92YcwEj6nXqMyskuBXd3VrfzsjCTGLRVK2JwlSC_5dqpZ74nfpQgzCIdg",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391636:KeyName=prod_linear:Signature=8P-0M6jVHNV1QMqsOljTqQqXUVU0bCvAwrRSY3yNH24H_XjQA9s2DWP051VdWefvPSHK9F8ZOD3BnM9ek127BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401557:KeyName=prod_linear:Signature=k3cgNRBI88MR2VcVwxUHbc-_PORo_hfTviOO1gLEzACWzCVjwFRHuwuzdaXm9I-lRfADHjSDzpOWjoyXpANCBw"
         },
         {
             "channel_id": "Uy6Q-JQBv9knK3AHcDUQ",
@@ -106,7 +106,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219136:KeyName=prod_linear:Signature=YN9wxGFIOoIGYlEnFvn3WxmV6EOMu5rGz4RtjT21Qer8IkJmAxuGRVZiWwwasdwXs0r3sDz8-Y5kZBmptIAiDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "ra2x_pQBrjBfS2_RWG9l",
@@ -120,10 +120,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJyYTJ4X3BRQnJqQmZTMl9SV0c5bCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNiwiZXhwIjoxNzg4MjE5MTM2fQ.hihLsxLV-rBdW5G83H9ceaALppfkMICXBDmmxdab_f9x2h1KaMH5AJHc86ZW1BE7Bg5DAiRmkFFq0dV0XPKijaymC06NSWDIeRR_bh81gl7DxxISP4h5RJ3UWphO6zDaEiALQXnnD8z1LbH1cA1diWESxC-oDmvmmdMjhdOteqO2dkig_HK_dZydT6ppsLktc8fkyjn3bZY2mINw53DBUobXI1zIV8xYXIMQwpWBK1EiRLrPjy7BNSJIYeXIah4_OLnCfoKgZwqxixaANkFa6XGjNXnRnFu1e63K2Gqf32k283ADmgkZpu_v-jhckm6EbAAMyJrn2V1i6x9pUoa2zQ",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJyYTJ4X3BRQnJqQmZTMl9SV0c5bCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1NywiZXhwIjoxNzg4MjI5MDU3fQ.ZCOAWxpWys_iDKdWv0BCQ5xCxtNfu4wRRpm1PqriyVpmMHnIR11RwNtlopsNKENegaaWkDo6lS2B6WSe5--KIkOMkNXDwv-JxExQoxl16ekdt96fkjNuqDdDXeqxvY_Hm51AvrlF-b_ulHxpXmzZyO3SnNg1izC5jGQYfKNwmn6fYVonxx0vIeqV0auXX5pT-NYBzfH09TnLSgVl_3ga_ur05OoYsW_6Dn7dJRPckzdZJo_GaIfs--ejc3wmQ220qZj-Nbi-ejEEGouNLzRmbvjpM2JMCx8y2hFpgt97vKGvTqJQyP0t9_mPxJAnu_yw9ZwN55F2jrBPC-L_wHdNsA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391636:KeyName=prod_linear:Signature=8P-0M6jVHNV1QMqsOljTqQqXUVU0bCvAwrRSY3yNH24H_XjQA9s2DWP051VdWefvPSHK9F8ZOD3BnM9ek127BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401557:KeyName=prod_linear:Signature=k3cgNRBI88MR2VcVwxUHbc-_PORo_hfTviOO1gLEzACWzCVjwFRHuwuzdaXm9I-lRfADHjSDzpOWjoyXpANCBw"
         },
         {
             "channel_id": "1y6e-JQBv9knK3AHNDWb",
@@ -140,7 +140,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219136:KeyName=prod_linear:Signature=YN9wxGFIOoIGYlEnFvn3WxmV6EOMu5rGz4RtjT21Qer8IkJmAxuGRVZiWwwasdwXs0r3sDz8-Y5kZBmptIAiDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "mC6W-JQBv9knK3AHfDWA",
@@ -157,7 +157,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "ny6W-JQBv9knK3AHujXC",
@@ -174,7 +174,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "1i6e-JQBv9knK3AHHTXR",
@@ -191,7 +191,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "IC5_-JQBv9knK3AHFDXh",
@@ -205,10 +205,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJJQzVfLUpRQnY5a25LM0FIRkRYaCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNywiZXhwIjoxNzg4MjE5MTM3fQ.hHvClg-xnYlPkOla2CVcb6ixBeVZaIwgL4ojBNPur2NQQuQ_ksRHKauheZY-7jFPvwEV4y95Rf_1oGucRFMzExwpgVR01ZYza5I0GmMYeoRLh1LLWRW7t7trSbbLAQqEjGEsuXnwFFE0mtvHN_8m3GpUSZQgYG4NKKPs_scK81P7mOo5XvOlBFiQinC5PjaXvlspqpla3jvSL8ZsO64cZIYer47aC4xzJlAVky-S6cYbWWLN5bGQK-12lqqErFRnietbvAyeidiPEoSNWkzoHo-L8RhEXb8D1848AJxRRp-xtp9icP9DRsy3020Nt0ECV0H5xWiWeoGLKuU3WeNoSg",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJJQzVfLUpRQnY5a25LM0FIRkRYaCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1OCwiZXhwIjoxNzg4MjI5MDU4fQ.SjcjFZiP1TPfxoLxkUrKmzjBnLrVrRIBZVz4J4cS6jBFBUokf93eocwRyetyt-YC4Ow_v5q8hQNSCxizndf0zObvVt1pI9Ulj202JxwqB3-wJZijcCJCa1xtKtPgW5pOfqiAMy12JAx8NaeX6XlC6vKozyNCq5US-yzlUcGV2zF0cTToqJ1ahMx2FReBzeI5kiLCPeg_nrQGjtGA09Yx3PcSAK1Qo0utOMdrrh6Ut9jxSm7wwkt6D3bWrz68ZuZvsIhdKLpx5LuFexS583_sHnjz80OU-iGuTDkbkwAznCkbI9GMRPCFcjA_Hh9N-TTzb4_4LLH70wOF4Dabhc3UlA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391637:KeyName=prod_linear:Signature=nr2uMETdFyGDFJKE5OIE16Q78RNSaTTHghl7NoK1hf5hHyiH8ll0VsPZk3Ws1VLQ2b2x7dZmGObvh_s3WRf5DA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401558:KeyName=prod_linear:Signature=QQEA8UwwWJ923OlU31QZOpcjtMSJDQaYbOLcx3HytKgQ3Ra9jIWARSQyHxegaBOHkz-8l-G8qF-JvBElSvRSDA"
         },
         {
             "channel_id": "5y7HX5UBv9knK3AHs6Nk",
@@ -225,7 +225,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "-C7MX5UBv9knK3AHdKOi",
@@ -242,7 +242,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "Ii5_-JQBv9knK3AHLDV3",
@@ -256,10 +256,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJJaTVfLUpRQnY5a25LM0FITERWMyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNywiZXhwIjoxNzg4MjE5MTM3fQ.AfwjDXDUgvntFWg_ENZp_IIBLyrwa_Q4ParsHopRjY-ozX3d3sv9N6x2GDyX_O-MMkuZh83ahNr1kb5VJWTsoMk07Oti3Wf7OjthRMp8mVJnEPPhaqBK0JInLSDwQzgzyZFd0MN6-9jUIorepKznUNgeYd0snm8an35HYZalEnCDPLYZ2chqTt92pQXkeJ9kRNFRTGD4jloFdw-ODoTZ1hE0wBlhPOEeP9weXHl0TDVKqI7TyaVZLGR-nRtSbpZuDIPWILYa6pHVP2gd04R1emXgyFNuh_MD4wFbud2UTLB2BBBinjD_jIaY9Qi0eTkE2KqIHyucNl6LE7pVSMBELw",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJJaTVfLUpRQnY5a25LM0FITERWMyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1OCwiZXhwIjoxNzg4MjI5MDU4fQ.tnvOcKoMwzMxkbuGNgzAn5JQEZvcUxWyHeG_c-hHPEDtOJe9Z891YrrXS2FRicnBse_1es_eTMIY1BFRhGCz6ngVdCeKxq24m-6HyLU-F3_vTikSmz1D0Ws0UZn8gqiANKEsvy_vSC2ozYEKmtPa9fg4qkkayGOyO17HDOIEiMvyvGxkgHjfsMH-HCtOrzl2w3IxcDHPoPlIVSDm_mgpbJe-g3WpUY2yP2w-jFDmT-xAwNSi2ZFKn4rUqPQ_OMxarWQuBCLyndfn6gbEV47cXOO5WdhpGQWAX4CjiH7OzQdTpwoAisUoQj0DDUsD_CzGXZoYPC3FFZ_-HzQ1NS75mA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391637:KeyName=prod_linear:Signature=nr2uMETdFyGDFJKE5OIE16Q78RNSaTTHghl7NoK1hf5hHyiH8ll0VsPZk3Ws1VLQ2b2x7dZmGObvh_s3WRf5DA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401558:KeyName=prod_linear:Signature=QQEA8UwwWJ923OlU31QZOpcjtMSJDQaYbOLcx3HytKgQ3Ra9jIWARSQyHxegaBOHkz-8l-G8qF-JvBElSvRSDA"
         },
         {
             "channel_id": "Ai51-JQBv9knK3AH_jWs",
@@ -276,7 +276,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "Ay52-JQBv9knK3AHFDWt",
@@ -293,7 +293,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "Ly6C-JQBv9knK3AHOjXt",
@@ -310,7 +310,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "PC6F-JQBv9knK3AHlTUO",
@@ -327,7 +327,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "QMwWnZUBtpl-Sbt7S2sx",
@@ -344,7 +344,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229058:KeyName=prod_linear:Signature=0pmyT6JdzJ9pJAD2QB_lIKpcv2OiaKoRMYbYnHBbdmjFLDMbSifJd3cMXqW_6wga1rk__XlQjcXlcFFSK6QRCA"
         },
         {
             "channel_id": "b60Ss5UBrjBfS2_RJPb8",
@@ -358,10 +358,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJiNjBTczVVQnJqQmZTMl9SSlBiOCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzNywiZXhwIjoxNzg4MjE5MTM3fQ.gf9IukGApawtw391Ev4anU0BSHBu4uJAIuYE1BRB0BVY8UnZTds9VJeAM_X-MZ6jFlBZ43xEbylf22ji3_OkkrV3ALc9n5js7ygXco1s9Q8cyn1Y4uTkJalmQij3neM-bxy2S8rQrtQrCdzDM-hcb3sG6EhZ9AUWvSxJr6wf2CYLEh4pEQs3nZU8whvEYTFM4GH9sIGjEltEL5306b7qS_qHIJRck6Cc1X1CbQO70dKgGU_1iivOM0IprlYR1xBmju_53F6k7G4Lp0vz1qwOJdqAyHEZyLTg7gNPEapD20fFh13ZywaJPAaA1i9CA54h0hUbtULfY2-T2fDw2ylUEA",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJiNjBTczVVQnJqQmZTMl9SSlBiOCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1OSwiZXhwIjoxNzg4MjI5MDU5fQ.07Hh_qliSpbpNPXsV1slB_9z1d9vHcFPEXXSPTAc32uLJKpxvzODfq9ByqofNbhyBO0BwJXuxQgOLL0DMn1xc-71x_X9UaWQVMnHdxpZstSox6pwbcOzp8lq_bnWEflW5NjEedtWcJzVFkDxaRo5n-SSdPy_W2rrNWVccaL4hC6yciAGEJQwJ7KQt82O0xFWD7FD7_UhsYb0JZDgy71CQOWuCrFMxW5lkeby7qPhAGK7UUF0BeNtO1ritBEjQW9RSgkMUhywLJ5071F1CRLGSJcnvaxWLpL716Ood4SNCP3LsJkjz5IQk9b0zG5vxioMgSl5wavQiko5AtV9oVRSTg",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391637:KeyName=prod_linear:Signature=nr2uMETdFyGDFJKE5OIE16Q78RNSaTTHghl7NoK1hf5hHyiH8ll0VsPZk3Ws1VLQ2b2x7dZmGObvh_s3WRf5DA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401559:KeyName=prod_linear:Signature=hAY55G5wBzDgzmgJDj31N_qUp1v2oJVBfr5LR2AR9DizdeQ5pZGF8YQGexxPnrZNkNi5wIJtkUeVsdpzbPXJDw"
         },
         {
             "channel_id": "kK2aX5UBrjBfS2_RBcKf",
@@ -378,7 +378,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "OnSlPJYBcqxnFHJB6lFX",
@@ -395,7 +395,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219137:KeyName=prod_linear:Signature=OF-Sy2ZI7D3Ra-ity94nt-B6BpdGHMSH7n0sVStxPxJECQ12N89jg7w6EZbmZ3VJvNc3dh6FA9D9ud2dwxPHDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "Pc3RD5YBtpl-Sbt7doxr",
@@ -412,7 +412,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "7x0Jd5YBEef-9-uVv_Gy",
@@ -429,7 +429,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "ltPQX5UBm1RY_In7b3F1",
@@ -446,7 +446,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "U3QEd5YBcqxnFHJBpYzc",
@@ -463,7 +463,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "DK8dd5YBrjBfS2_Ru22e",
@@ -480,7 +480,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "5cwRnZUBtpl-Sbt7wWrN",
@@ -494,10 +494,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiI1Y3dSblpVQnRwbC1TYnQ3d1dyTiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.AW480WFZnjpJOUlF74mQyLILbizjT-pErzFp2dEy8e_6kNmYQtS1SsLD-d8BiPtnczIlYbealHv0X4dk2RI9h1D577OcYqSovOGrod9VqLY1s_PJtBNruTMqHooyFirPlCNPa9IMvuXebNP_O_CwNflTIiYnWG7UP2FhkNQJqy8pVum8UEGP6UpbpvL6c5UqaqCPwPPqJKLDcrC7PFS_f0gKuWQs2ebj603TMIGNFrt2IorYl-q2ObPeWvHizoDDAd9KgyiicQiiz5KU6Di8E75Eu0WGIope30KHPHkPqKtLoOgX2sKFuqMKPF83q8PrKlYJISGG32MAvFsyuzbHkw",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiI1Y3dSblpVQnRwbC1TYnQ3d1dyTiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1OSwiZXhwIjoxNzg4MjI5MDU5fQ.t7iKlc7bg-6uVsV6Fo4HraaSFvHu7CacHOiyj5XdcosmZQymRSaVe_kmpowj0radwEG5aKeu_Gsf6aOVOuZJIhE3FxbdNer2VhGkuaoyFVFRwFEVIoPLoOWK6WxhVt6xmXmm8MU_xGDJeggSXZWsDiy4Ul9bVTsRpS9ipD6pjEwAe_KGnoDbuKv2xmFaeoAGwl3BR41NnDgJTuUGR4zWBzYqT05KcvbBkGxyKfQmzzL19E9KnEfslsefK3i6bwvxC2_nat-8dmAtS9uJlt2eOVcAzAY3x84HKiEdKoOgiJperwW_L5buJoyytCgwrp7f8aQITWj_jwik2L3ShDRBlw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401559:KeyName=prod_linear:Signature=hAY55G5wBzDgzmgJDj31N_qUp1v2oJVBfr5LR2AR9DizdeQ5pZGF8YQGexxPnrZNkNi5wIJtkUeVsdpzbPXJDw"
         },
         {
             "channel_id": "0C63X5UBv9knK3AHxaOs",
@@ -514,7 +514,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "WtPBX5UBm1RY_In7mXEU",
@@ -531,7 +531,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "T9O9X5UBm1RY_In7UXFv",
@@ -548,7 +548,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219138:KeyName=prod_linear:Signature=jW4ydILE55GVj1RwrBbnw6xUY-sdZEuNNSwwjZd54urJCbP4aKJxjsQQDUe64JiUW377JWaUbGkLe0M_-OJ6Dg"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229059:KeyName=prod_linear:Signature=XaxitZSG1QZIn2AdleESs0uL_iJSMb2YDsCX_-5x3c5OX06xiQmYlALLf3TgYTk60C2ASyxQk7z3k0kLGHySDg"
         },
         {
             "channel_id": "wHLVIJ4B7a1HdMSjaGLJ",
@@ -562,10 +562,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJ3SExWSUo0QjdhMUhkTVNqYUdMSiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.xOcFUfJp1St-I0BouXQN36oIgEtqWSGPv67DpJBpK8icvC4jQ3GnhaxoTEXUxS2DltmS41y7X5TLNin7sVKRfJhY96NytEp2oQoqwFhasgddGXOJXz03ZD9BcMaWurI8fSurORb3R90eUKGJ6KbqM-tz3UOIY0oXpT_QykL6Tij_JKnUnCTWhRAnEpo1I7RTFdDF0jHRVfLRYFQ2PsjW0zyJ5x-ywRztlqL9NdD9KKEwhDISVvUm4qlnywW1CM1YB6tV14qphvoijZ0G5lsEibXs8mMl9X0w6zvS3UGT0bMebIakYsLHt_gqWlxsi-stOPK3vAzqQoDCYY59T07I1Q",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJ3SExWSUo0QjdhMUhkTVNqYUdMSiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1OSwiZXhwIjoxNzg4MjI5MDU5fQ.KNmn76TpAb53QNk7hJ8tXU0P1spU_xkG4f7kXWfQkReXlz5WxbzD_uICftV8qphs65PfXuqogDZF6oKjxE__FX87z-IohxDSQQi1pXDUp8dM9TSeSj6z7t2RXODySNBL--tmU7YQ9mcd98Ved3YaiX9TEEJvTNvhVa3H8XwYE4YmLzhWvcvH7V4P8Gy-0992G4RH7fxDkG_urmJ1os6TbHdJ13X76fnNzKPd60DVUhp0X82WyYY0k72RdYGU7YeXwASa-DrhAhCe-JXEdwuP0I6nLzwuDxQ24ybg0yNsuJF2mjdox6-XJeW5EH84KnBnxb7o6y3DFv9tSfn_R3LTWA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401559:KeyName=prod_linear:Signature=hAY55G5wBzDgzmgJDj31N_qUp1v2oJVBfr5LR2AR9DizdeQ5pZGF8YQGexxPnrZNkNi5wIJtkUeVsdpzbPXJDw"
         },
         {
             "channel_id": "qnv835oBcqxnFHJBuQcB",
@@ -579,10 +579,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJxbnY4MzVvQmNxeG5GSEpCdVFjQiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.QHdd9gy661eg3wGMJiR1AQ_8zyoGX6eLIXqpj2hI2uRAoHYkgO-xpNzioGeMku4BsiMnIh8vBmWzQE8Wb5OT4gd-4Wye3P-cqNo7X4cDOvpxHxi6hmVIUkp_cssKMxvx6gtN3bhzY7q0LIk3Jkos3MqeCIJwlB4ia6Ze-e2akoIUL6nP5Hh6df7Cz-QY7svLVd4KBdKa-BZMxDjmFWDIinz4fYVRQN0gu-82scZJVzh9GteY3EsWIkDabFwWjk5tOx0tGJ5WQcCoALGGSwxkS4a-YRQ4x8FAdOEqsFOWuytWl7JrlQXhwEycxmJ5dSW0Q62g5Cw16bV6rFy-PUULWw",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJxbnY4MzVvQmNxeG5GSEpCdVFjQiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc1OSwiZXhwIjoxNzg4MjI5MDU5fQ.V6vIZPQsFMxAeFhrKB1GRdcp7lvjOoP3CJzSwG8uXHSljFLL_UqXiX_JOyxBGZUNpQ0q6oLTdw9vdPrsiL5vWWqLbPo6o5sIfRpgoVAHPsEVR7B7LoMKIrJfOTnhCBrCNf-rEFAGgTUrd2BpbDif2Pd3bWw5rJq0P1zw5zDpgJ9U4ClU5Jax1DIIwHuRLXI6ZJJ0Om_krrkDkcI5cQp6I8ybvr4xPBjA6S53wxafnUzKKr09cSoFWMkSlAHrP6_iJW1aeXMa7lXrazS8r2nUoDsGCpiHe5iwfYV6po7xJGTaVXCRtEEY_0aO-4hkkUHo_DtRZ-om1xOut6pYYYl_zg",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401559:KeyName=prod_linear:Signature=hAY55G5wBzDgzmgJDj31N_qUp1v2oJVBfr5LR2AR9DizdeQ5pZGF8YQGexxPnrZNkNi5wIJtkUeVsdpzbPXJDw"
         },
         {
             "channel_id": "FHz5PJwBcqxnFHJBdAqW",
@@ -596,10 +596,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJGSHo1UEp3QmNxeG5GSEpCZEFxVyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.O8425J9x9aUH-bdc_4DKeZaz4-ICGK1vcSR41SFtGjwTspp7PJHW5-9YYdD6thNnKjvjnWwM41o7vwb377aVB7eWvgod6rUhu4BvJB7YgdUEJrVH-ZLAHFB6fqrn-01VLd15QMBlgU7o0poJ-NTlRyN73JympmMKFhSXCMr7uZ0Xd4FjYNy4uFmBqigmBxUBLODpZXUR8wspJFG-VJkkU2npcsaOjzVkBrpM5AvEAFbIj0ZJWFTF40dy5NvLTnlvs3deML8fyB44w94gxPg0bplf8zxheEXnI2Pku11WsZ2y3VG_aGmGbVHovwGR2mdvWtkLhNUEpe4DJycHnB0ERg",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJGSHo1UEp3QmNxeG5GSEpCZEFxVyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.epnt_bjUTu-wvpbqmDN0uC0mPpU8v3ny__ztw6e9GTWEClhb4bPbAZiZCUYIPGirRat_-H_20JmgBSAV-_WeBjbdYZXvExZrxF8iCooBDA1TkLaklBeKyZFqL2Ba59ygQwtV4TAZ0Eo4w4wRb_nTpqySPkO9c0BxglpQ8r2Z13B4pxpQCneuuNizc3Y_Y4bzU9t9fTnUMD2w7FzXUxsimRSzRinztafLVBx7fHIwnMHdEfOoiHFrfzWSpnrczukBNJ7x2MIGo2kExczhn0aOYaR-XO0djxNOwjvDPWfj_1SnoI4X8k5zssNb5DlAn49_rVQjSbjx3jyx3kY97e0uGw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "jehEA54BIxFjn23xAmdw",
@@ -613,10 +613,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJqZWhFQTU0Qkl4RmpuMjN4QW1kdyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.psdJwGbMddHZvVmzjbI5jd7W7J-VNeC4csGy_BsG2IDVEhllWQQG-l844FfACpBbiqxQpHSYR3uJHy4-feYkAy8pLCg_WT_kbm2Y5Jy8AofSujBwP6JLpziahLPKJ7w1jlBql7OnEfVteqTYcyIlFAXqnI_ptyHteBiFR3yRv4zX6KugQQRtSmBq90Yj9NgOwG9UJ6B2ujF0H9BVqYLEM_XGHICGRf-Umnr3dg2ZJedX6R9j-5uDLqnqR48Jf0_wrWIYL8Ki38NJLMbEZk3LXQjmR2tNFzxpsEH5j0hGUpuY4nIWf8iMSv-0G1eyEGciY-yRExHXZHEXO0azDemwag",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJqZWhFQTU0Qkl4RmpuMjN4QW1kdyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.jr5Dq4-uXBBWkY-TQzmFq2jOmI9NQWaVnhVRM8WDT-ou3hWVbO93u8-OwYk3BbrvU5UkmdKs5ITwzq_eA1v4ifAVceGGbj-L5DRsBRMbSeMq7dvF8f6KlFwD8UfwNs2ZF83RzeSaXHTt6rLJOMG0yPvv17itpcRlNh6xhMMSFEB2Xu7Okxcq3JOyPqOYHMsJpCmSEnzu3hjLdO_u-114VgL1htobKfr1EMSmUvBXOl_kB917ni1JMEGjgPkIaOvrgVLePYXWT1VY7ofcZdN3_A9Zj_8IZoVj-Ng_WkE4bt6amxtWWFS6O9ZwaxcfSvYBTTYNEWHqqixtdcHjUfvdHw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "WyPuDJsBEef-9-uVUA_z",
@@ -630,10 +630,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJXeVB1REpzQkVlZi05LXVWVUFfeiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.ALUTxFFrTQaSXjXFXyKj1HtwGslQj0tbN7n5Qc_LZ3AmL5ap9rB0HQ32ohFJ_ULUw3nqfdrz5Px3-juJUZ6dXq-t4cnppIM2_yDVeq3h3s6yGQSVNXaaDEUGY1ANUI6F4OWD-QTKpCLjD7JuLlIXjXDnfkGKSQBrq7_D60TZcLuImniwY0QVNCGofA2-aMdhcv3fc0LiiRpgo3TgHuOcFQ7MpOZsLE2GtFid2meYHlFJmSyCDVUFgLXT0q4xOOLUYyaWJNLryylU7t-mU1AuOy5pJiaSwCedVyhLJtOnXvXwFjbCuT3lT964I6_tqYm-0i_xILOAm5e1oXTGZKVUFg",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJXeVB1REpzQkVlZi05LXVWVUFfeiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.Gs4Jkt5Iatk_WXXZR_AgOIeba1QD9cA1NwM_ux4JD4O-UHabIBuCzC9mL0jU5aKeKGHW0UljfssWqqiMXhQD3gt8fD4GGWjtJnb69cbJmzydsIsDWXuKwSRottMUIILoKvHE-8hIz9rZHtkQ2zonnlaA5D95UDuvMM1AWpCOtJnZwQ0GkzeZJP_x5ghYCFxiZe4RBRWdgMYFxTD7-wG6eJNljvFmfbAh16fDM5GSPhUAviwCB7cNY2qT0wR-PZ9HvqE5KTVMTmCz5ZlOe3nxwUpxrKn0G9Ulso6_yUILwMpFoeCiUlxfltNAQPquPvCtJBDYpg9XPQc2vLFGl4IdFQ",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "CXz4PJwBcqxnFHJBPwrG",
@@ -647,10 +647,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJDWHo0UEp3QmNxeG5GSEpCUHdyRyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.lZsCcI9R1cUNyOPe56Cda6k40RQZiXI0HXln4XcnVaCww8-ls9a_LyZh0FaN0uwHOA0rUece0T3KVrl1RfE27F-8klyayx5gKxt_MJtczLAsJpieRq9_JXIlzFz-bJbjpmLi0kgfpUBpR1blCum6dH8m8HrxnjCj6JZ7JLKFZz61lp6A77bgj_zJLvRlIYnzRF1miJ5dCz-W2hjO9uIhnyvNZof8zXVbD7qhrCKn83OcfopEPr-GE_JcmdcxLFgNEcAn9PsAxQJBoxL_Ldy6cHGgIPAoVkME7nvsiLcVA4uU9Po6AyDBSvXSCp7iQqlOo3ElxmB7RjzAANhLqdwJ8A",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJDWHo0UEp3QmNxeG5GSEpCUHdyRyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.P5nkqGo6RgLV2xnyhz9hz0orBcaWOal3qC9elsTW_FCP-HaA8UQ4ID0xohbXoL_1TGCukJ5d-kOqsguYnfcLrTje3RAC-cjij2Y9wq1-m6szRx6SFpnGRcPFIRfK0CfEWqwuULDw-vRZ8rf9iVYLqEbQrs8x6R80eZvpoHty0oC0SxztsGVLb2EaA6XDW67ie8QsKtE3_7lTw-js88C4on9gZLt_-7rcMMX3MlVS1YhJm_cgPUPyFYQa73and77yL0vA_mGKkGNWMK8Rfz1fW286zr7yZ9qcyjIa6hXEPVaYrUUCS38m3XbDLOjwi7Uj5ldLl-X70e73oKt2DCBVjA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "KECGB54BuUSiBsg_dHyj",
@@ -664,10 +664,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJLRUNHQjU0QnVVU2lCc2dfZEh5aiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.HEn7IYigf7z-Tvsq41bGDFPJZUH442sdrOPd_RZQJCBsT8-zvvG1-PsGQZreVDA9mCPKEQJNnoU1bXTPdYWwgHhjxWEXzYQa2a95GHS_ZpCassYnahU6y91-IujL8K8pQ_Qd6q4pINZO35_tW2MG1tKfpaMZg8BP4LP8y8rrOzqF-pv2aKmup20rpDyfC2ZxwcBY6SG-BjbZJh0WVIdLOuzi3BklbKGoRTayRsUCix9Y7AVU-vvfwJK9mRHwWAU_UL92-MXavJcu08Li5FXTNYDUPABmgeahv2-mgiytR-aUwlb-tTYHlwItXDAkTiz2bwk4sxmN6g8YoKjVudcbMA",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJLRUNHQjU0QnVVU2lCc2dfZEh5aiIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.tQ23sZW3KGA6Y9R8Bky2QV8HeMkMfjqFiLraXRnZ2dqG6a3b-68ZHNy0dqgXo7fJweYdcr9WoYtfCoJhMdyVm4Nsw5XJ2BOOFbi_6EPQVFc-a1g10fOAO468z1r7ZcGKh8lE3uKvDATpcBf01xSqtyCXAVAByDhFKPhnd4yFYX42ROE19weDF-kGhjNnRLZMea6nvs0uLX4i83pKfttddQyzap40tOe_8TfUJ0mrc_VxTD73eY4WyzPFQE7uaMrI2dEuP98OmBnO2yV6fOrxVrIepA9dh04cnhGPplye6DPAPDg1zN6Er1kzwElBNv-mKFzWvbtMRae161O9ebp1qA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "MyK__poBEef-9-uVmf5l",
@@ -681,10 +681,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJNeUtfX3BvQkVlZi05LXVWbWY1bCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.mtGUdy28XkMPAhg7--liK5wTfX4M1BJyBmzXNduW1NxAyFnWtz9HmatSgPFBDYTjZbRdPdwoWSA-zMYf4QZ8YgtUPcCu_9c8Nmx913dSwjdaYG8ePZntk2J45ZinHE2yqfbH10Qz-eyQ4SD_vqx4d7CQNPZNF_dk0lQ9CzG8JEinuUbLTagqV2bpL_kZBKeokXfyDxWgCa0lUK8daxd0idP-B6a9lG1wp0leDLcN0d3w2yZ0ePdcDPQomGi4DwwLQEnY_sSTmwDbEIegCaBoWBQMEaRvYOIa6p-8OzKGaklMAiEc8QExZAWnIgFd__HG5Kj91LMt-wbRDccfdE-Pdw",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJNeUtfX3BvQkVlZi05LXVWbWY1bCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.ZoZhsXi5SvZ3cZV6oCEV4nprbrylIFiql7vc097MArNkm3bqJEt_Tz59buGu2t0oEtYHVXGj1X-96gGKhrxro5xzcmPsJ3WXTUk0nDAVDNaapM0cb-wzEik4jKcCOXgOUT0y2-9tOb92pBTT038hGFKiReXlMCJwQjMHTzOrd5pRVXeqTxCHZO4UsPBCfAS-4fBnpOyhzn8KLigsgatGAeCPwshVwZM3BxessWb8P57Sdd4tZOj2r7FtlpQHf_Q72kh1whk227OM5MKjCkVuyoA2S3rCT8gkVeNCMJs8FjW8frxPArFcPBTiKlJJ0eTDeOMAngrBF8U29mJqHG7F6g",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "-Xz3PJwBcqxnFHJBDAlE",
@@ -698,10 +698,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiItWHozUEp3QmNxeG5GSEpCREFsRSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.PoQQmXTu8U2ya0ov4I5n7ScRFZGz1KJM5GkOjY3iCjiV5xFK3fOIxBj6nxKtt2WYDf9395X-jgOCgcemmHydmwlOdr4cW2CrabqbuE7n7Ikgs4ytHwS5EEFmyN39pKJ1Q86TSQ7Yfqs8KWHAB3O1zvXNaBu6N0MrryOO_TGGP8Z0b2o-bWW0mkjz5-uTnGMjWItarCIR2uqXemEKaaHPcWV1d-NuSlNHHTkaUKx1cB3bh_65OlbEqfm28uizXeCBM18FayqBNZvb-gj-Sppg2o_Z1S-1JTIHESAaOz5jw8vJmf1chTeCbajLAQM3-KLOeVcYbb01Hal4QtuyyFZ41g",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiItWHozUEp3QmNxeG5GSEpCREFsRSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.s_9EeKOvSyEfCOUPS6WnXyN4_yq4tGDYpzAj7pKvoi9B5I_ORj7zwbr5t6dJIRRzeabF6TZ-Gj4_c1JTk7PPa5oeI3y6ekexp8LU_qvVOem5R0i8D5hs_wkc1gTGjmQbwZEOKMkA5iKKwfwI1j6BjFqXxlqdKgxoaxz-Ro92JlnRzJFBMI1uD4LWBADOQdw7fXJKdndi5i97oKTW2NgIdy0g-zZfaDpBQhlE0AO9HrI5gQCjCW1kQX0RS6tNpbHvuuuNTj0GoLCYBjmhVAO3p7DVxFYTXSvJCuYbhGIQPAbHEb7wAIeEkmM8MCqYPvridyXTr2iWVMY6VcV2iDs8Pw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "6Hz1PJwBcqxnFHJBhgkV",
@@ -715,10 +715,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiI2SHoxUEp3QmNxeG5GSEpCaGdrViIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.aaZLrMGeqmHl-Z5MCpwhQg0bzIM-9HLNzASiansKZyFbMnRdA4t6pyg4DkvzPbGD6dwcPV9v9EEqUtHTeBrSoO2KyspHkRxEqMa8LC3f4vCN6WY8rShS7HXFx7RAAXh_qPjLKsewYjNwCk_eUQThNUIv_vB7Reb6SS39VMakrd6waVh0KRKrdpIjKvfz8ENR5eH-oRI93tpRDtPD_jnoezKoqVOzDnoKj_uzSUUZVhkU3ioceT5oIOqoGZtt8d3KcdVTOanKaH8Qyp7rdMmiuo0JdOUlMGG5ukQ4gxa96KnCfXrkE7R7eLHLx1Ukuz72NL8CcWNhCWyDDEwr2X88QA",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiI2SHoxUEp3QmNxeG5GSEpCaGdrViIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.ZCCQcdQr3hc3FYPzFSydkEXU8wnhalhYksZjWctDjoZIfSlqeo7fbkYF_2Ot8EzInx7fn6ruR0jMqXiEd0vcuvlLwOyd6qxZ6WhYYX--jJC0xYg8bCP1HRV9rj4xJdq8xZbjgvAT1lisK2x9GC88DR80jM9s37ubtOUA9_IbKYlNyoxslLJfAitUERHM__qCaFqIc8MooHbaBAp8p2VK-MEzgXv4VzixjziW0EhgE7X9gS7p-fK2nHAfnb7LOKdQ7lm05qNTmCUm4hLRc67L_4ygfGYA69K3gipA2oPNcPS1k964eLxZmxup09lqCgQzHacs7AeAI1rPVFSJndLPlw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "PiL635oBEef-9-uV2uCe",
@@ -732,10 +732,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJQaUw2MzVvQkVlZi05LXVWMnVDZSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.aKIASvYSt8GVJ48UDvb_9MlMdTDVtMeWQcv9_8gPr0Zv_CSWtD3KvQL0R4ApyeM6uRlP4-EVOutXC6LnsHrilyQH4_Wp-6X9QhTmQp4O8iWHpK9qAsYD3cE8onC4TR935h6EMfIo1SWNDEfjDD1CuwRtr-hfRPQfbuwgGhW7wPV2w1cWFWIo36a4pUlLW8jO-sGlgWkWnTJKlagOUVgYJss2bjdFNhkFTJ4XcjL_zwvlR_vXlXXjA0pUr1rQMdIUvAc5HPwC5QkxmxobP8aOX9HmzgaNCUXOMZLFbuPWedQv6zrxvzVfX_00qbtz7e1v5_vTQKuxV6jlupkmidUg-Q",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJQaUw2MzVvQkVlZi05LXVWMnVDZSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.cPBHGGxbnN0G9Qp69MHtMBok8W6tIhxgKm9G87RpXG8f4Z-NYYRNUeYvO3JOq_vH2p8Lg3tH2UUezoWqeDAKNSX81KecaD0-oaeP-HGZgGRs4O12JFvb1ia2KMFmVigkfRiQ0sY8c6JNxKMPRGE8Igwp2Iwkwq_Ra5IinimoKk58CGIWtnOEjY4V8FBbSOMnfHRKaqgKw6g8sPOM5JPj6exRi3ff3rpthng5bSvxaFpvsFME6dS-afsCyTiEqqEE7TrkwsJAcXyCiN6bc2mHoDlLn0s5eYsAYKYayNvbsHvmKz_R_VvCoLCwsz4k5FLyfamlkp_Mxv3RJGYilt2t8g",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "JiK-_poBEef-9-uVZv6L",
@@ -749,10 +749,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJKaUstX3BvQkVlZi05LXVWWnY2TCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOCwiZXhwIjoxNzg4MjE5MTM4fQ.CnL1zQrJVlQb8LChAgOqLto-KMLyHAVfkPLTwopai1LZCbDTanomKCKrkw5YhejhU9z4kdFvnlwXylxsJAxnCGY1yggFEv_JOrRtoOEUrxF3SbUWialgrmOFoUUisTuXcZ9KDNKsc5YTPwLxLwy2NsbUBKfC8ANkGiOQj871tLS6uxUcyj-srh9FGXvIYojuAgUK37jU32VYw13KtWS7qpNl2l_7eoixN3lXp8VbkP3XjEZE-zUIFhBl87U3raodZbNtV0QkQJZgWtNTmx4pIlqoo-XAekkIRTpTecyY5kvQ9qgNFefv1fOK6JlHdQxO9o3Pl9pw5wraq3gTl51MZg",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJKaUstX3BvQkVlZi05LXVWWnY2TCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.yW8ID1yKLDxlFNUrnLJA9NhWX7MEGAmJuk6Vnz08hxADFEZ3p991U9COKUp81BKI-4jQ6Jq18CpTN9XlXU7IEzpqPSQls4cmRAP1T5e3IX-JbTO6eeAqZDZmueloILU6eGSH-p_XybMJhQ2Jdayr9FqgQ_o1Q2tvzhHByrSwuh_7UxJPnKcuAf8_ZUIMaeODLs2ZmUAUJXINR62Ch4fstZ6-k26b8Zuzqi5Bc5L9XFBTIQ1l4yurEFRLdgy2hHq9w_TRryA3zH5OYtWUWazA8ophh0Ah5bWSXgcN-KgnOnk5yI4McHvcDqgwnkaLkCIyuD7ZzbrkgFa92xoHO_l9Hw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391638:KeyName=prod_linear:Signature=vRAqOAr-5l5wsWQy6PE8KxqG-BXwwUjERdG_E9xOBiYQUiuU_cJ2QdMyw-O5x7S1xbAyvHD8boVkkmIbkcakBQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "rYOv_p8BJIOHmUelrnXh",
@@ -769,7 +769,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229060:KeyName=prod_linear:Signature=gWGfXv32jzvMoOea5nrq54HKUN7igytcnP6EaPjXoeFPxG87AB9RmtdiYSyTILhNcZV7i4gyqCtZ78lGvAQoAQ"
         },
         {
             "channel_id": "Xi_Ga5oBNnOkwJLWkhKP",
@@ -783,10 +783,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJYaV9HYTVvQk5uT2t3SkxXa2hLUCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOSwiZXhwIjoxNzg4MjE5MTM5fQ.Qoc5PKJAfGwNuA7eDqxoBgrOqbbgRvlXJh_ggF0IgttL9LbDUgCC3mZuiRiQqG0p7TQSzJ_FgQx0Ugkd-uwsIxF5NfQUBf7fMVQxVXLqX0gA8MtKFjBr_-CAs2cvssMplIxjyjx_t8HdWlcq8QykhNCIeyhEmdTj37zPoI4mMuzsPMQMMCSgRsdsd1JSoaHED2XBCSmx0ZXprFc5_YYZif5iNCZ0XIM8Y9oIewJae5YPUBSvgYkXfCXZPtz9YluMX35QDZtaDLNfDU2d6Mnx7srd3YBZSaW_NzEJfPo4AXM1uG5APuVxQlgoXV76V3ompy9NvuVSz61rJBYPsaogsw",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJYaV9HYTVvQk5uT2t3SkxXa2hLUCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.YEz_BOK3G_h8xDrYDkmpVBMAUxEc22Lx1EW4VhkUqcOkKOkksLDzd4FLuwL5grLivPI_hvq6uSsAVyAqf7Hm9nCXCPz6ZRz1ZtlDc-gczClmwj1t4QUCWdDVM04ZxjS7UeZDKQrnUlklUjOyYJ-Vq7X7AgJuvPwEVOhgsmlu5_S7ieQ7RmN5Rg7D5PwUhMnJkQk9-cpXymRyoNUTirnIOs_tAx65Qs9u2pnq9R_TXOi-TuYVs4yO7aGehyVTGphVuJ9TRsERq_zo5u9pojDsGkAldiBSbYoe57e0D6AcEfkWWTXT_rfJCzVS_QbPD2Jv6sF0fLnxOK0Y6AWxPr3onA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391639:KeyName=prod_linear:Signature=urN7kqgAe4pylGPG2t9N9pcc-OOCbVZX0v7-rVz0XHsyJ-Ocp8-apS1sEtNX0a1ff4ZTkklaX9XGwnKuUDxmBA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "1YPq_p8BJIOHmUelSHXc",
@@ -803,7 +803,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229060:KeyName=prod_linear:Signature=gWGfXv32jzvMoOea5nrq54HKUN7igytcnP6EaPjXoeFPxG87AB9RmtdiYSyTILhNcZV7i4gyqCtZ78lGvAQoAQ"
         },
         {
             "channel_id": "PS_La5oBNnOkwJLWLRN_",
@@ -817,10 +817,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJQU19MYTVvQk5uT2t3SkxXTFJOXyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOSwiZXhwIjoxNzg4MjE5MTM5fQ.tJwTw3HWPnX021Sr36mXWbLyOvdiVgT0gDuJnydcHjX6bqZKSk_wLJ-TRt12IkjibiNzwkCiNS0U283kS6AmW2A0pleix_JIM7XXTZMB04_dhyFnw7mq1TdBHufD3zJKqNoTv4X3HqkMJGrext-77OVJtYljYWMv6WawiKUt8HYfrXtr-oiol2v96V99yZgc6lRGCBByo192yiQAhVOIYx3Lj879fec8P5dSgUHZ7rKMyQIhNyVD_EdizRP0TYPGOvUhhUztZ-s8SMmVNHaHPhgtLL5QwlTza5TtG10NkExTUHdq4U9TAgH4Gp1hhv3D7JPSS9i53otIslCkuMihLA",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJQU19MYTVvQk5uT2t3SkxXTFJOXyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MCwiZXhwIjoxNzg4MjI5MDYwfQ.eynvNiSNl5Ro4F-DS1F-ylsYdyLvP8_zMW9vtEeoMSFzIsLqNlX5YB7LI12t9ibbpUstTicVUgy7TOXqxLHMWsltEMeEGh8YXJKVTIhtinV1AtvSTxIoap_8XdjPwEpQbU66RTN0Mezs7EX2-Qwu3ench4RahikCG6yUQb4CAMp0TA_ts9werC0Y9gCukQAZzo15qS8YUBM-II86VMvPFrSUu7TVWNwbvU4V4YHlh0yc3_vePGpqOtpKCUAkrVQvfZ4opr1tm6DqqU_GH8jWHpVFMz5XFALSL0dEbUBzybBTqf-7vXAD0nMRoa4Maz3OXmyTe_ygZTPxP1X80dd2zg",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391639:KeyName=prod_linear:Signature=urN7kqgAe4pylGPG2t9N9pcc-OOCbVZX0v7-rVz0XHsyJ-Ocp8-apS1sEtNX0a1ff4ZTkklaX9XGwnKuUDxmBA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401560:KeyName=prod_linear:Signature=00uVqhEDs_WoWNOIYQ7wVcAkcvzF1OCuzq96XHxhBCacSQZAORCANt-fUoA9wTrZ315rtVpk3dPOkVci2yYeAw"
         },
         {
             "channel_id": "7oPt_p8BJIOHmUelhXWj",
@@ -837,7 +837,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229060:KeyName=prod_linear:Signature=gWGfXv32jzvMoOea5nrq54HKUN7igytcnP6EaPjXoeFPxG87AB9RmtdiYSyTILhNcZV7i4gyqCtZ78lGvAQoAQ"
         },
         {
             "channel_id": "CNT2_p8BalKyvLQIBSUG",
@@ -854,7 +854,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "VC6Q-JQBv9knK3AHhTXt",
@@ -871,7 +871,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "G4ML_58BJIOHmUelNXZr",
@@ -888,7 +888,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "DYMI_58BJIOHmUelm3aK",
@@ -905,7 +905,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "ES_cZZsBNnOkwJLW1Oz1",
@@ -919,10 +919,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJFU19jWlpzQk5uT2t3SkxXMU96MSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOSwiZXhwIjoxNzg4MjE5MTM5fQ.wNDXe_kqnKrR71qtiosnvTmnGQlV0_voLgfnoCkY2VuITTAWbd6kminbN6FWj7rY0Mdjkgr5xzLMnbvxCAuUYVFQhyZJKCT1W7NlRITCBf6cLbo6xwxDBuGjoXVvE8hONDAZis4CWbFctgKxn9oFvv5NGposUGK674N49a3PfChaI2qF78bgvyNnuVXJjbfrIXlVoN1Q-lflc9l0cOB6cHdMPqIW1cMDxHPgcEHhGfew1aJ6P9KCZfQH7_pvRG0s3oyl-VGOtBkqKmHXR-bHIJdZ0_0PDGOFiMzLvRek_l55LeHg06WpLAaKUs8XGyG4ny64jAoHeoZRjnAWcSvQdg",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJFU19jWlpzQk5uT2t3SkxXMU96MSIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MSwiZXhwIjoxNzg4MjI5MDYxfQ.gb-X11VkNzha9kOrYou3UvFvuWtzImuZKl1WXG__EXWMgdg88HYBVHwXt8-UtKJ5ai4P4DKEjwwkSgylpgJ4pwOhIXG5DtRxcwvEC8U-uAz_3s8BFnujneqBk4cdzYSkziso6EDQ4f_fEUVU41UQlf6uQbFEvHpLaIfZGkAiHXWIheUrZ2Z1F0Fi8_7fGNDs4KNX2FuWgETl4wvs9vpRi3Yb-W0RIVBkP9_avEzNf82GK_i_SofmcRGiQi2_sISUdcL4rI49IL0JqDBL5hFZZoffKgZmmmAa7HwIlsS9Wj07qVfvBTiKsdbVbZC2SbP5lhh79P8fLoiNOxkIzquWdw",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391639:KeyName=prod_linear:Signature=urN7kqgAe4pylGPG2t9N9pcc-OOCbVZX0v7-rVz0XHsyJ-Ocp8-apS1sEtNX0a1ff4ZTkklaX9XGwnKuUDxmBA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401561:KeyName=prod_linear:Signature=vQhDRVyKKJSXc0wbuNFmxbh7HVpbG6Bv7wZxSSmr6SCp4WyQxQVP4u8DSTWqi7BZt1tuU_Czwvmekr1_Mi0QCA"
         },
         {
             "channel_id": "o3v235oBcqxnFHJBkAdC",
@@ -936,10 +936,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJvM3YyMzVvQmNxeG5GSEpCa0FkQyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOSwiZXhwIjoxNzg4MjE5MTM5fQ.ShhW7-uHIyIztjRaQsRghLN_Y1Qd-CcFH4WKERLcoRP2NDsvBkra7t3YfyCSL-a2HE0DPOXw0NZIyrIWSw40D7QN5WsJmaSNumyONZzS8tUPc4Qf6u-ZlXg9VV-77Q_e0waR8I_wDQHiF2fWnrB0aVU7-wtB2-VUneDCs5qrk9QwERKo9q-szWpzKzYwwJrVYcW4Cva7i_x7iROzO7Xdi1rEIrYScwFvBlgaJ20iM2shzMNskT-cITazFkdFppMCbclMHoNKHPchkxygHUgmXqbprxgz9R-juZUNdXvHKoPwYtle18AFjRrrsiuRv3ho8gsWgu6ixmlhpT9nbdyVGQ",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJvM3YyMzVvQmNxeG5GSEpCa0FkQyIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MSwiZXhwIjoxNzg4MjI5MDYxfQ.BGdrePpz6h9laVwKJ98RItDd2PGXNMMZL0OUv5Rlemck5WqatA3372ZH7x0LSHpP8zRBGk8Tz7P9RAh4GSo7tp1ZQuFcLPIeb8uCasN4TUzj3SfHV-Pkdr5JLTeNiOeUF1DqkjbILaJGJI-Mykm8XXWHgEeiwqFvKs0myKc476z0vxPN5tMo5KkMk5xtcKw7XATXcBLcDw7EYqI4_7P8EduACaUgSW0zZ6QV5CJ67-7EAE0Fpehr-EjGMEgDuU0esHnnw--FhxHYz6xlE3bjKAOGfrb_SKUBaDyb5tHuj3W_Hpgff5Ty4i-6d0e09EFUZDfUwoow0WrQhGMvM4ZKGg",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391639:KeyName=prod_linear:Signature=urN7kqgAe4pylGPG2t9N9pcc-OOCbVZX0v7-rVz0XHsyJ-Ocp8-apS1sEtNX0a1ff4ZTkklaX9XGwnKuUDxmBA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401561:KeyName=prod_linear:Signature=vQhDRVyKKJSXc0wbuNFmxbh7HVpbG6Bv7wZxSSmr6SCp4WyQxQVP4u8DSTWqi7BZt1tuU_Czwvmekr1_Mi0QCA"
         },
         {
             "channel_id": "7C6j-JQBv9knK3AHVzUA",
@@ -956,7 +956,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "7S6j-JQBv9knK3AHbzXC",
@@ -973,7 +973,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "Ni61-JQBv9knK3AHcDYc",
@@ -990,7 +990,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219139:KeyName=prod_linear:Signature=W0XntqSUvmtHtOWJsHNKVVgo8YpxcMHlZlvYYfJUoYJRWU3aVHTym6JC46Wxe8feg1YXepps3ok58XMNIZecDQ"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "Ny61-JQBv9knK3AHgzZ7",
@@ -1007,7 +1007,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219140:KeyName=prod_linear:Signature=oqulGGhMB9v7ZMI8bx9XAA0UCFxkCXzl1qQIkN2AITxPw-uX_4Ou0IXxGb5CwlMTWhNF9UewyfrkxWKPBKa5BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "MC6C-JQBv9knK3AHUzUT",
@@ -1021,10 +1021,10 @@
             "status": "PUBLISHED",
             "stream_url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8",
             "stream_format": "HLS",
-            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJNQzZDLUpRQnY5a25LM0FIVXpVVCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIxODgzOSwiZXhwIjoxNzg4MjE5MTM5fQ.wadAPS-8K_G3AhzWWfqrJgtMD6IpUt0iV_okUAUC_u9ntrKx-V_3vxDeMG2uW5695aYOaULrmEUSpKWtxZsn7Qz7TE5E-Hv9clqZ5i50GfO1vLLMjeV6STHv7ps-oRjzYJ0CiaXZ4IhdDw9sKxN5CS3CsPXLWWhylNn-_Pc9yru_VHwozzSb2mlWshQMuMYLLkFTGy8ihdv01cOLL5th9kdSXCiX_XMqd35XF6gatft_3LDJQf2Ovcv-yfk3RO0TqKF3eqJZB54xIVw5_d3WNoWn6sE1aQDM27IgPCVKU3wkYgQimAaXLGsRzUuSjkLTs1OrE7guDQqOcuePQ8WjyA",
+            "drm_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJNQzZDLUpRQnY5a25LM0FIVXpVVCIsInVzZXJpZCI6IjkwYTU4NTM1LTYyM2MtNGM4MC04ODA2LWY2NWI2OTRlNmI3MiIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc4ODIyODc2MSwiZXhwIjoxNzg4MjI5MDYxfQ.aQln_46dd0jLRwU8r6a8bGTCkjduA1IW_QsRHh5WN02I0-Ivv1HJBcft4w1aKD1dND02o0y9keKjfjOFk8pbaCfzWynthpDf3ZxZC_gIGpgfDb9fledYNua9hRDcrzETGi_Hdtl2PgN5d5Acawtcudn-eG7aXfE84_rXMxUPZoiIznUZEBs2PbgNSNoB8dq6iT3aO4WXfpiK6Gc-QVJyzsu9Hx35j_CdWI2Pt3Gn4pMVZPnAngyMAMv4HXrs34WdejzWJt6rE-2oczrnEsO0Sxt9ZsUvmVuvgputwvZ2-XJuuAZgTo6jXhr3BqGvSbPzV382yxyrLNF6TRNeRenLSA",
             "has_ads": "yes",
             "access_status": "allow",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788391639:KeyName=prod_linear:Signature=urN7kqgAe4pylGPG2t9N9pcc-OOCbVZX0v7-rVz0XHsyJ-Ocp8-apS1sEtNX0a1ff4ZTkklaX9XGwnKuUDxmBA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788401561:KeyName=prod_linear:Signature=vQhDRVyKKJSXc0wbuNFmxbh7HVpbG6Bv7wZxSSmr6SCp4WyQxQVP4u8DSTWqi7BZt1tuU_Czwvmekr1_Mi0QCA"
         },
         {
             "channel_id": "KC6x-JQBv9knK3AHqjYc",
@@ -1041,7 +1041,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219140:KeyName=prod_linear:Signature=oqulGGhMB9v7ZMI8bx9XAA0UCFxkCXzl1qQIkN2AITxPw-uX_4Ou0IXxGb5CwlMTWhNF9UewyfrkxWKPBKa5BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "KS6x-JQBv9knK3AHwDZy",
@@ -1058,7 +1058,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219140:KeyName=prod_linear:Signature=oqulGGhMB9v7ZMI8bx9XAA0UCFxkCXzl1qQIkN2AITxPw-uX_4Ou0IXxGb5CwlMTWhNF9UewyfrkxWKPBKa5BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "AS6s-JQBv9knK3AHDTZb",
@@ -1075,7 +1075,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219140:KeyName=prod_linear:Signature=oqulGGhMB9v7ZMI8bx9XAA0UCFxkCXzl1qQIkN2AITxPw-uX_4Ou0IXxGb5CwlMTWhNF9UewyfrkxWKPBKa5BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "Ay6s-JQBv9knK3AHJTY1",
@@ -1092,7 +1092,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219140:KeyName=prod_linear:Signature=oqulGGhMB9v7ZMI8bx9XAA0UCFxkCXzl1qQIkN2AITxPw-uX_4Ou0IXxGb5CwlMTWhNF9UewyfrkxWKPBKa5BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         },
         {
             "channel_id": "ay7uX5UBv9knK3AHs6TI",
@@ -1109,7 +1109,7 @@
             "drm_token": "N/A",
             "has_ads": "no",
             "access_status": "trial_access",
-            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788219140:KeyName=prod_linear:Signature=oqulGGhMB9v7ZMI8bx9XAA0UCFxkCXzl1qQIkN2AITxPw-uX_4Ou0IXxGb5CwlMTWhNF9UewyfrkxWKPBKa5BA"
+            "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788229061:KeyName=prod_linear:Signature=wP8O1XCdCC1YUE-fVe_Aii2JZfDq_9vkK9x1XbHt8h0mOSsMQnwYd64ZWI28FeykQr1r8xxrX8V0TFWMVfqIDw"
         }
     ]
 }
