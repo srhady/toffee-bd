@@ -1208,6 +1208,22 @@
         },
         {
             "channel_id": "-Xz3PJwBcqxnFHJBDAlE",
+            "channel_name": "Eurosport HD",
+            "category": "Live Action",
+            "genre": "Live Action",
+            "tags": "live_tv",
+            "logo_url": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",
+            "is_premium": "Free",
+            "content_type": "Live_TV",
+            "status": "PUBLISHED",
+            "stream_url": "https://prod-linear-media.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8?edge-cache-token=Expires=1790631019~Starts=1790627419~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=YcV0KO7Zu_3GT28BX9b0DIi_m09vEYaiErJKmwUdncps-e78zIztBLmkOZR-YdySL2hXDshqbZBrRIJhL4YnCQ",
+            "stream_format": "HLS",
+            "has_ads": "yes",
+            "access_status": "allow",
+            "cookie": ""
+        },
+        {
+            "channel_id": "-Xz3PJwBcqxnFHJBDAlE",
             "channel_name": "Mohona TV",
             "category": "Live Action",
             "genre": "Live Action",
